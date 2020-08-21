@@ -13,7 +13,7 @@ function Carousels() {
 
                     <div className="col-sm-12 btn btn-warning">
 
-                    Find the 100 users that love you, and figure out why.
+                Find the 100 users that love you & figure out why.
 
                          </div>
 

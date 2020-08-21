@@ -35,7 +35,7 @@ function App() {
       
       <div className="card">
       <div className={`App ${day? 'App':'darkNight'}`}>
-      <button style={{margin:"1%",marginLeft:"85%", marginRight:"0%", color:"darkBlue", backgroundColor:"whitesmoke", borderRadius:"25%", height:"40px"}} onClick={()=>{setDay(!day)}}>Dark-Mode</button>
+      <button style={{margin:"1%",marginLeft:"74%",width:"100px", marginRight:"0%", color:"darkBlue", backgroundColor:"whitesmoke", borderRadius:"25%", height:"40px"}} onClick={()=>{setDay(!day)}}>Dark-Mode</button>
         <div className="card-body">
         <Carousels/>
         <br/>
